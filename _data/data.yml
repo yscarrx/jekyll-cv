@@ -15,8 +15,9 @@ languages:
   - idiom: português
 
 education:
-  - school: IFRN-Mossoró
-  time: 2023-...
+  - degree: curso tecnico informatica
+    time: 2023
+    university: IFRN-mossoró 
 
 skills:
   - category: Backend
