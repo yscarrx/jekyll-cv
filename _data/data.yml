@@ -4,26 +4,19 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: yascaraluanne323@gmail.com
+  github: yscarrx
+  linkedin: yscarrx
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: português
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - school: IFRN-Mossoró
+  time: 2023-...
 
 skills:
   - category: Backend
